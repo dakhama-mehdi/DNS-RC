@@ -4,7 +4,7 @@ DNS Revers Check
 
 
 
-#Abaout 
+#About 
 
 DSN-RC is a free tool, to helps many companies to solve the problems related to their DNS service, and to reduce the PTR DNS error or  possible attacks, 
 it's applies the last patches of Microsoft following the DNS flaw last corrected.
